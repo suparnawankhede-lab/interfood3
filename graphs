@@ -1,0 +1,92 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Food security by state/province: USA, Canada, Brazil</title>
+<style>
+body{font:15px/1.5 system-ui,sans-serif;margin:0;background:#faf8f3;color:#1d2a1f}
+.w{max-width:920px;margin:0 auto;padding:20px 16px 50px}h1{font-size:1.7rem;margin:0 0 6px}h2{font-size:1.25rem;margin:34px 0 4px}
+p{margin:6px 0;color:#4d5b50}.n{font-size:.85rem}.sc{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:560px;margin-top:10px}
+th,td{padding:4px 8px;border-bottom:1px solid #e1dbcb;text-align:left;font-weight:400}thead th{background:#2e6b3a;color:#fff;font-weight:600}
+td.v{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}td.s{color:#2e6b3a}td.t{width:38%}
+.bar{height:11px;border-radius:2px}tr.avg th,tr.avg td{font-weight:700;border-top:2px solid #1d2a1f}
+.box{background:#fffdf8;border:1px solid #ddd6c5;border-radius:6px;padding:10px 14px;margin-top:14px}
+</style></head><body><div class="w">
+<h1>Food security by state or province: USA, Canada, Brazil</h1>
+<p>"Food insecure" means a household (or person) lacked reliable access to enough food because of money or other resources. "Food secure" is the remainder. Bars show the food-insecure share.</p>
+<div class="box"><strong>Read before comparing.</strong> Each country uses a different survey, unit (households vs people), year and scale, so rates must not be compared across charts. I read "food safety" as food security (access to enough food); food safety in the sense of contamination is a different topic. Canada and Brazil charts show only the regions I could verify, as noted under each.</div>
+<section><h2>1. United States: all 50 states and DC</h2><p>Households food insecure, 3-year average 2022-24 (USDA ERS, ERR-358, table 4).</p><div class="sc"><table><thead><tr><th>Region</th><th>Food insecure</th><th>Food secure</th><th>Chart</th></tr></thead><tbody>
+<tr><th scope="row">Arkansas</th><td class="v">19.4%</td><td class="v s">80.6%</td><td class="t"><div class="bar" style="width:97.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Kentucky</th><td class="v">18.8%</td><td class="v s">81.2%</td><td class="t"><div class="bar" style="width:94.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Louisiana</th><td class="v">17.7%</td><td class="v s">82.3%</td><td class="t"><div class="bar" style="width:88.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Texas</th><td class="v">17.6%</td><td class="v s">82.4%</td><td class="t"><div class="bar" style="width:88.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Mississippi</th><td class="v">17.3%</td><td class="v s">82.7%</td><td class="t"><div class="bar" style="width:86.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Oklahoma</th><td class="v">16.9%</td><td class="v s">83.1%</td><td class="t"><div class="bar" style="width:84.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Wyoming</th><td class="v">15.6%</td><td class="v s">84.4%</td><td class="t"><div class="bar" style="width:78.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Nevada</th><td class="v">15.0%</td><td class="v s">85.0%</td><td class="t"><div class="bar" style="width:75.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Michigan</th><td class="v">14.7%</td><td class="v s">85.3%</td><td class="t"><div class="bar" style="width:73.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Georgia</th><td class="v">14.6%</td><td class="v s">85.4%</td><td class="t"><div class="bar" style="width:73.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">New Mexico</th><td class="v">14.5%</td><td class="v s">85.5%</td><td class="t"><div class="bar" style="width:72.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Ohio</th><td class="v">14.2%</td><td class="v s">85.8%</td><td class="t"><div class="bar" style="width:71.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">West Virginia</th><td class="v">14.1%</td><td class="v s">85.9%</td><td class="t"><div class="bar" style="width:70.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">New York</th><td class="v">14.0%</td><td class="v s">86.0%</td><td class="t"><div class="bar" style="width:70.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Indiana</th><td class="v">13.7%</td><td class="v s">86.3%</td><td class="t"><div class="bar" style="width:68.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">South Carolina</th><td class="v">13.5%</td><td class="v s">86.5%</td><td class="t"><div class="bar" style="width:67.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Florida</th><td class="v">13.3%</td><td class="v s">86.7%</td><td class="t"><div class="bar" style="width:66.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Illinois</th><td class="v">13.3%</td><td class="v s">86.7%</td><td class="t"><div class="bar" style="width:66.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Missouri</th><td class="v">13.3%</td><td class="v s">86.7%</td><td class="t"><div class="bar" style="width:66.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Tennessee</th><td class="v">13.3%</td><td class="v s">86.7%</td><td class="t"><div class="bar" style="width:66.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Arizona</th><td class="v">13.1%</td><td class="v s">86.9%</td><td class="t"><div class="bar" style="width:65.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Alaska</th><td class="v">13.0%</td><td class="v s">87.0%</td><td class="t"><div class="bar" style="width:65.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Maine</th><td class="v">12.9%</td><td class="v s">87.1%</td><td class="t"><div class="bar" style="width:64.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Nebraska</th><td class="v">12.7%</td><td class="v s">87.3%</td><td class="t"><div class="bar" style="width:63.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Idaho</th><td class="v">12.6%</td><td class="v s">87.4%</td><td class="t"><div class="bar" style="width:63.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">California</th><td class="v">12.5%</td><td class="v s">87.5%</td><td class="t"><div class="bar" style="width:62.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Kansas</th><td class="v">12.5%</td><td class="v s">87.5%</td><td class="t"><div class="bar" style="width:62.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Oregon</th><td class="v">12.5%</td><td class="v s">87.5%</td><td class="t"><div class="bar" style="width:62.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Virginia</th><td class="v">12.4%</td><td class="v s">87.6%</td><td class="t"><div class="bar" style="width:62.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Alabama</th><td class="v">12.1%</td><td class="v s">87.9%</td><td class="t"><div class="bar" style="width:60.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Connecticut</th><td class="v">12.1%</td><td class="v s">87.9%</td><td class="t"><div class="bar" style="width:60.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Wisconsin</th><td class="v">12.0%</td><td class="v s">88.0%</td><td class="t"><div class="bar" style="width:60.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">North Carolina</th><td class="v">11.8%</td><td class="v s">88.2%</td><td class="t"><div class="bar" style="width:59.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Massachusetts</th><td class="v">11.7%</td><td class="v s">88.3%</td><td class="t"><div class="bar" style="width:58.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Montana</th><td class="v">11.7%</td><td class="v s">88.3%</td><td class="t"><div class="bar" style="width:58.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Maryland</th><td class="v">11.5%</td><td class="v s">88.5%</td><td class="t"><div class="bar" style="width:57.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Utah</th><td class="v">11.5%</td><td class="v s">88.5%</td><td class="t"><div class="bar" style="width:57.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Washington</th><td class="v">11.0%</td><td class="v s">89.0%</td><td class="t"><div class="bar" style="width:55.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Pennsylvania</th><td class="v">10.9%</td><td class="v s">89.1%</td><td class="t"><div class="bar" style="width:54.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Delaware</th><td class="v">10.8%</td><td class="v s">89.2%</td><td class="t"><div class="bar" style="width:54.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Hawaii</th><td class="v">10.8%</td><td class="v s">89.2%</td><td class="t"><div class="bar" style="width:54.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Iowa</th><td class="v">10.8%</td><td class="v s">89.2%</td><td class="t"><div class="bar" style="width:54.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Rhode Island</th><td class="v">10.6%</td><td class="v s">89.4%</td><td class="t"><div class="bar" style="width:53.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Colorado</th><td class="v">10.5%</td><td class="v s">89.5%</td><td class="t"><div class="bar" style="width:52.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">District of Columbia</th><td class="v">10.3%</td><td class="v s">89.7%</td><td class="t"><div class="bar" style="width:51.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Minnesota</th><td class="v">9.9%</td><td class="v s">90.1%</td><td class="t"><div class="bar" style="width:49.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">New Jersey</th><td class="v">9.8%</td><td class="v s">90.2%</td><td class="t"><div class="bar" style="width:49.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">South Dakota</th><td class="v">9.5%</td><td class="v s">90.5%</td><td class="t"><div class="bar" style="width:47.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">Vermont</th><td class="v">9.4%</td><td class="v s">90.6%</td><td class="t"><div class="bar" style="width:47.0%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">New Hampshire</th><td class="v">9.1%</td><td class="v s">90.9%</td><td class="t"><div class="bar" style="width:45.5%;background:#b3392b"></div></td></tr>
+<tr><th scope="row">North Dakota</th><td class="v">9.0%</td><td class="v s">91.0%</td><td class="t"><div class="bar" style="width:45.0%;background:#b3392b"></div></td></tr>
+<tr class="avg"><th scope="row">United States</th><td class="v">13.3%</td><td class="v s">86.7%</td><td class="t"><div class="bar" style="width:66.5%;background:#444"></div></td></tr></tbody></table></div><p class="n">Highest: Arkansas, Kentucky, Louisiana, Mississippi, Texas, Oklahoma. Margins of error are wide (about 1-3 points); many state differences are not statistically significant. USDA has discontinued this report, so 2022-24 is the last official state series.</p></section>
+<section><h2>2. Canada: 8 of 13 provinces and territories</h2><p>People living in food-insecure households, 2025 (Statistics Canada Canadian Income Survey 2024, via PROOF, University of Toronto).</p><div class="sc"><table><thead><tr><th>Region</th><th>Food insecure</th><th>Food secure</th><th>Chart</th></tr></thead><tbody>
+<tr><th scope="row">Nunavut</th><td class="v">56.4%</td><td class="v s">43.6%</td><td class="t"><div class="bar" style="width:94.0%;background:#2b4a7a"></div></td></tr>
+<tr><th scope="row">Alberta</th><td class="v">28.4%</td><td class="v s">71.6%</td><td class="t"><div class="bar" style="width:47.3%;background:#2b4a7a"></div></td></tr>
+<tr><th scope="row">New Brunswick</th><td class="v">28.2%</td><td class="v s">71.8%</td><td class="t"><div class="bar" style="width:47.0%;background:#2b4a7a"></div></td></tr>
+<tr><th scope="row">Manitoba</th><td class="v">27.9%</td><td class="v s">72.1%</td><td class="t"><div class="bar" style="width:46.5%;background:#2b4a7a"></div></td></tr>
+<tr><th scope="row">Newfoundland & Labrador</th><td class="v">25.5%</td><td class="v s">74.5%</td><td class="t"><div class="bar" style="width:42.5%;background:#2b4a7a"></div></td></tr>
+<tr><th scope="row">Quebec</th><td class="v">18.0%</td><td class="v s">82.0%</td><td class="t"><div class="bar" style="width:30.0%;background:#2b4a7a"></div></td></tr>
+<tr><th scope="row">Northwest Territories*</th><td class="v">16.4%</td><td class="v s">83.6%</td><td class="t"><div class="bar" style="width:27.3%;background:#2b4a7a"></div></td></tr>
+<tr><th scope="row">Yukon</th><td class="v">15.5%</td><td class="v s">84.5%</td><td class="t"><div class="bar" style="width:25.8%;background:#2b4a7a"></div></td></tr>
+<tr class="avg"><th scope="row">Canada (all provinces and territories)</th><td class="v">24.0%</td><td class="v s">76.0%</td><td class="t"><div class="bar" style="width:40.0%;background:#444"></div></td></tr></tbody></table></div><p class="n">Not shown: Saskatchewan, Nova Scotia, Prince Edward Island, Ontario, British Columbia (values not verified). *Northwest Territories estimate flagged by StatCan for data quality. Territorial samples are small.</p></section>
+<section><h2>3. Brazil: 10 of 27 states (5 highest and 5 lowest food security)</h2><p>Households food insecure, 2023 (IBGE, PNAD Contínua). Food-secure shares were published; food insecure = 100 minus food secure (my calculation).</p><div class="sc"><table><thead><tr><th>Region</th><th>Food insecure</th><th>Food secure</th><th>Chart</th></tr></thead><tbody>
+<tr><th scope="row">Sergipe</th><td class="v">49.2%</td><td class="v s">50.8%</td><td class="t"><div class="bar" style="width:89.5%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Pará</th><td class="v">47.7%</td><td class="v s">52.3%</td><td class="t"><div class="bar" style="width:86.7%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Maranhão</th><td class="v">43.6%</td><td class="v s">56.4%</td><td class="t"><div class="bar" style="width:79.3%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Amazonas</th><td class="v">42.6%</td><td class="v s">57.4%</td><td class="t"><div class="bar" style="width:77.5%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Piauí</th><td class="v">42.0%</td><td class="v s">58.0%</td><td class="t"><div class="bar" style="width:76.4%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Minas Gerais</th><td class="v">21.6%</td><td class="v s">78.4%</td><td class="t"><div class="bar" style="width:39.3%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Espírito Santo</th><td class="v">20.8%</td><td class="v s">79.2%</td><td class="t"><div class="bar" style="width:37.8%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Rio Grande do Sul</th><td class="v">18.7%</td><td class="v s">81.3%</td><td class="t"><div class="bar" style="width:34.0%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Paraná</th><td class="v">17.9%</td><td class="v s">82.1%</td><td class="t"><div class="bar" style="width:32.5%;background:#e07b1a"></div></td></tr>
+<tr><th scope="row">Santa Catarina</th><td class="v">11.2%</td><td class="v s">88.8%</td><td class="t"><div class="bar" style="width:20.4%;background:#e07b1a"></div></td></tr>
+<tr class="avg"><th scope="row">Brazil</th><td class="v">27.6%</td><td class="v s">72.4%</td><td class="t"><div class="bar" style="width:50.2%;background:#444"></div></td></tr></tbody></table></div><p class="n">All other states fall between these extremes. National food-secure share was 72.4% in 2023, so insecure is 27.6% (derived). Pará, Amapá and Sergipe had the highest moderate-or-severe insecurity (about 19-20%).</p></section>
+<p class="n" style="margin-top:28px">Sources: USDA ERS ERR-358 (via Hyperresearch transcription); PROOF, "New data on household food insecurity in 2025" (Apr 2026); IBGE PNAD Contínua 2023, as reported by Agência IBGE and Paraná state government.</p>
+</div></body></html>
